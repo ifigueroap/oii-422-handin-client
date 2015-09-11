@@ -15,7 +15,7 @@
 ;; Modify the provided "icon.png" file to your school/lab/etc logo.
 
 ;; You must define a server:port for the client to be functional
-(define server:port "localhost:7979")
+(define server:port "158.251.88.50:7979")
 
 ;; The following are optional. Uncomment and fill in
 ;; the values to add a menu item under "Help" to open
